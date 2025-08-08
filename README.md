@@ -3,7 +3,14 @@
     Olá, bem vindo!</br>
   </h1>
 </div>
+### Sobre mim
+<div align=center>
 
+Olá, meu chamo Victório Mariani, sou desenvolvedor backend, e aqui compartilho alguns dos meus projetos.
+
+</div>
+
+##
 ### Tecnologias
 
  <div align=center>

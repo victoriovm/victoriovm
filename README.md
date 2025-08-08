@@ -4,12 +4,6 @@
   </h1>
 </div>
 
-### Sobre mim
-<div align=center>
-
-Me chamo Victório Mariani e atualmente resido no Espírito Santo, Brasil. Desde a adolescência, nutro uma paixão pela tecnologia, sempre em busca de aprendizado contínuo e estou cursando Análise e Desenvolvimento de Sistemas.
-</div>
-
 ##
 
 ### Tecnologias

@@ -4,8 +4,6 @@
   </h1>
 </div>
 
-##
-
 ### Tecnologias
 
  <div align=center>

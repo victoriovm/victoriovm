@@ -7,7 +7,7 @@
 ### Sobre mim
 <div align=center>
 
-Olá, meu chamo Victório Mariani, sou desenvolvedor backend, e aqui compartilho alguns dos meus projetos.
+Olá, me chamo Victório Mariani, sou desenvolvedor backend, e aqui compartilho alguns dos meus projetos.
 
 </div>
 
